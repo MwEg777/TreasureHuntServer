@@ -7,7 +7,7 @@ using System.Text;
 using System.Threading;
 using System.Reflection;
 using System.Linq;
-using System.Data.SQLite;
+using MySql.Data.MySqlClient;
 
 namespace MythServer
 {
@@ -18,14 +18,16 @@ namespace MythServer
         static UdpClient udp;
         TcpListener server = null;
 
-        static SQLiteConnection m_dbConnection;
+        public static MySqlConnection m_dbConnection;
 
         public Server(string ip, int port)
         {
 
-            m_dbConnection = new SQLiteConnection("Data Source=TreasureHuntDB.sqlite;Version=3;");
+            string connectionString = "server=localhost;" +
+                "uid=root;" +
+    "pwd=u9LB8:#sUA}Y(2H4;database=freddy";
+            m_dbConnection = new MySqlConnection(connectionString);
             m_dbConnection.Open();
-
             IPAddress localAddr = IPAddress.Parse(ip);
             server = new TcpListener(localAddr, port);
             server.Start();

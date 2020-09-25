@@ -37,7 +37,6 @@ C:\Users\Karim\Desktop\MythServer\MythServer_TreasureHunt\MythServerCS\MythServe
 C:\Users\Karim\Desktop\MythServer\MythServer_TreasureHunt\MythServerCS\MythServer\obj\Debug\netcoreapp3.1\MythServer.dll
 C:\Users\Karim\Desktop\MythServer\MythServer_TreasureHunt\MythServerCS\MythServer\obj\Debug\netcoreapp3.1\MythServer.pdb
 C:\Users\Karim\Desktop\MythServer\MythServer_TreasureHunt\MythServerCS\MythServer\obj\Debug\netcoreapp3.1\MythServer.genruntimeconfig.cache
-C:\Users\Karim\Desktop\MythServer\MythServer_TreasureHunt\MythServerCS\MythServer\obj\Debug\netcoreapp3.1\MythServer.csproj.CoreCompileInputs.cache
 C:\Users\Karim\Desktop\MythServer\MythServer_TreasureHunt\MythServerCS\MythServer\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
 C:\Users\Karim\Desktop\MythServer\MythServer_TreasureHunt\MythServerCS\MythServer\bin\Debug\netcoreapp3.1\EntityFramework.dll
 C:\Users\Karim\Desktop\MythServer\MythServer_TreasureHunt\MythServerCS\MythServer\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
@@ -68,3 +67,15 @@ C:\Users\Karim\Desktop\MythServer\MythServer_TreasureHunt\MythServerCS\MythServe
 C:\Users\Karim\Desktop\MythServer\MythServer_TreasureHunt\MythServerCS\MythServer\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
 C:\Users\Karim\Desktop\MythServer\MythServer_TreasureHunt\MythServerCS\MythServer\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\Karim\Desktop\MythServer\MythServer_TreasureHunt\MythServerCS\MythServer\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Karim\Desktop\MythServer\MythServer_TreasureHunt\MythServerCS\MythServer\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Karim\Desktop\MythServer\MythServer_TreasureHunt\MythServerCS\MythServer\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\Karim\Desktop\MythServer\MythServer_TreasureHunt\MythServerCS\MythServer\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\Karim\Desktop\MythServer\MythServer_TreasureHunt\MythServerCS\MythServer\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\Karim\Desktop\MythServer\MythServer_TreasureHunt\MythServerCS\MythServer\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\Karim\Desktop\MythServer\MythServer_TreasureHunt\MythServerCS\MythServer\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\Karim\Desktop\MythServer\MythServer_TreasureHunt\MythServerCS\MythServer\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\Karim\Desktop\MythServer\MythServer_TreasureHunt\MythServerCS\MythServer\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+C:\Users\Karim\Desktop\MythServer\MythServer_TreasureHunt\MythServerCS\MythServer\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+C:\Users\Karim\Desktop\MythServer\MythServer_TreasureHunt\MythServerCS\MythServer\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+C:\Users\Karim\Desktop\MythServer\MythServer_TreasureHunt\MythServerCS\MythServer\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\Karim\Desktop\MythServer\MythServer_TreasureHunt\MythServerCS\MythServer\obj\Debug\netcoreapp3.1\MythServer.csproj.CoreCompileInputs.cache

@@ -136,6 +136,11 @@ namespace MythServer
 
         }
 
+        public void PeriodicTreasuresCheck()
+        {
+
+        }
+
         #region PlayerRequests
 
         public void WHOAMI(Player player, Dictionary<string, object> payload)
